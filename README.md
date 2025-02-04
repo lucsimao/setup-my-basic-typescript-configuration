@@ -77,7 +77,7 @@ $ yarn lint
 ```
 
 - **Style Check**
-  `` npm run style:check`  ``npm run style:fix`or`yarn style:check` `yarn style:fix`
+  ``npm run style:check` ``npm run style:fix`or`yarn style:check` `yarn style:fix`
 
 - **All Tests**
   ```npm test`
@@ -99,10 +99,8 @@ In this project, we used the following technologies:
 
 # References
 
-- [Waldemar Neto - DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TYPESCRIPT ](https://github.com/waldemarnt/node-typescript-api)
-- [@brunohafonso95](https://github.com/brunohafonso95)
-- [Glaucia Lemos - Curso Typescript Zero To Hero](https://github.com/glaucia86/curso-typescript-zero-to-hero)
-- [Alura - Formação Node JS](https://cursos.alura.com.br/formacao-node-js-12)
+- [Martin Fowler Blog](https://martinfowler.com/o)
+- [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [NodeJS Integration Test Best Practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices)
 - [NodeJS Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Javascript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
